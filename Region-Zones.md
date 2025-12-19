@@ -10,4 +10,4 @@
 - And each AZ's has its own cooling, networking and cooling
 
 ## In Short
-- Inside Regions there exits AZ's
+- Inside Regions there exits many AZ's
